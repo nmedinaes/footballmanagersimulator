@@ -1,0 +1,2 @@
+# footballmanagersimulator
+Simulator | Football Manager
