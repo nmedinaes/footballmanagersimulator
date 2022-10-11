@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 10376
+  controlID: 10719
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 10377
+  controlID: 10720
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 10378
+  controlID: 10721
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,9 +233,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 98890000
-      m_LastClickedID: 35224
-      m_ExpandedIDs: 8cdeffffd2deffff78e0ffff28fbffffc05f000068890000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: fc91ffff4292ffffea93ffffdeadffff24aeffffd8afffff68c7ffffaec7ffff62c9ffff30d1ffff8adaffff8cdeffffd2deffff78e0ffff28fbffffc05f000068890000b6890000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -577,9 +577,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 724.35956, y: 458.63214, z: -21.047256}
+    m_Target: {x: 860.6919, y: 199.96718, z: -19.511072}
     speed: 2
-    m_Value: {x: 724.35956, y: 458.63214, z: -21.047256}
+    m_Value: {x: 860.6919, y: 199.96718, z: -19.511072}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -609,7 +609,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -627,11 +627,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: -0.000000006657127, y: 0.00000006869945, z: -0.000000016071727, w: -0.99999994}
   m_Size:
-    m_Target: 455.30954
+    m_Target: 670.44086
     speed: 2
-    m_Value: 455.30954
+    m_Value: 670.44086
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -725,21 +725,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/MainMenu
+    - Assets/Images
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/MainMenu
+  - Assets/Images
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\CreacionJuegos\Football Manager Simulator
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 94600000
-    m_LastClickedID: 24724
+    m_SelectedIDs: 92600000
+    m_LastClickedID: 24722
     m_ExpandedIDs: 00000000866000008860000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -793,9 +793,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 98890000
-    m_LastClickedInstanceID: 35224
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -812,7 +812,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 7}
+      m_ClientGUIView: {fileID: 9}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -999,7 +999,7 @@ MonoBehaviour:
       oldMaxSizes: 
       oldSplitSize: 0
     m_HorizontalSplitter:
-      ID: 74133
+      ID: 21461
       splitterInitialOffset: 0
       currentActiveSplitter: -1
       realSizes:
